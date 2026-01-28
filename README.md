@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kovname/Kovname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://kovname.w10.site/assets/icons/git%20logo.svg" width="120" alt="Kovname Logo">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi, I'm Kovname</h1>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender_API-white?style=flat&logo=blender&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=black" />
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/Kovname"><img src="https://github-readme-stats.vercel.app/api?username=Kovname&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_title=true" height="150" alt="stats graph" /></a>
+</p>
+<p>
+  <a href="https://github.com/Kovname"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kovname&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&hide_title=true" height="150" alt="languages graph" /></a>
+</p>
+
+<br>
+
+<p>
+  <a href="https://t.me/Kovname"><img src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=black" /></a>
+  &nbsp;
+  <a href="https://kovname.w10.site"><img src="https://img.shields.io/badge/Portfolio-white?style=flat&logo=google-chrome&logoColor=black" /></a>
+</p>
+
+</div>
